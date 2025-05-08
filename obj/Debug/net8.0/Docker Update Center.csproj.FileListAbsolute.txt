@@ -1,0 +1,30 @@
+/Users/belkius/VSC Projects/Docker Update Center/bin/Debug/net8.0/appsettings.Development.json
+/Users/belkius/VSC Projects/Docker Update Center/bin/Debug/net8.0/appsettings.json
+/Users/belkius/VSC Projects/Docker Update Center/bin/Debug/net8.0/Docker Update Center.staticwebassets.runtime.json
+/Users/belkius/VSC Projects/Docker Update Center/bin/Debug/net8.0/Docker Update Center
+/Users/belkius/VSC Projects/Docker Update Center/bin/Debug/net8.0/Docker Update Center.deps.json
+/Users/belkius/VSC Projects/Docker Update Center/bin/Debug/net8.0/Docker Update Center.runtimeconfig.json
+/Users/belkius/VSC Projects/Docker Update Center/bin/Debug/net8.0/Docker Update Center.dll
+/Users/belkius/VSC Projects/Docker Update Center/bin/Debug/net8.0/Docker Update Center.pdb
+/Users/belkius/VSC Projects/Docker Update Center/obj/Debug/net8.0/Docker Update Center.GeneratedMSBuildEditorConfig.editorconfig
+/Users/belkius/VSC Projects/Docker Update Center/obj/Debug/net8.0/Docker Update Center.AssemblyInfoInputs.cache
+/Users/belkius/VSC Projects/Docker Update Center/obj/Debug/net8.0/Docker Update Center.AssemblyInfo.cs
+/Users/belkius/VSC Projects/Docker Update Center/obj/Debug/net8.0/Docker Update Center.csproj.CoreCompileInputs.cache
+/Users/belkius/VSC Projects/Docker Update Center/obj/Debug/net8.0/Docker Update Center.MvcApplicationPartsAssemblyInfo.cache
+/Users/belkius/VSC Projects/Docker Update Center/obj/Debug/net8.0/Docker Update Center.RazorAssemblyInfo.cache
+/Users/belkius/VSC Projects/Docker Update Center/obj/Debug/net8.0/Docker Update Center.RazorAssemblyInfo.cs
+/Users/belkius/VSC Projects/Docker Update Center/obj/Debug/net8.0/staticwebassets.build.json
+/Users/belkius/VSC Projects/Docker Update Center/obj/Debug/net8.0/staticwebassets.development.json
+/Users/belkius/VSC Projects/Docker Update Center/obj/Debug/net8.0/staticwebassets/msbuild.Docker Update Center.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/belkius/VSC Projects/Docker Update Center/obj/Debug/net8.0/staticwebassets/msbuild.build.Docker Update Center.props
+/Users/belkius/VSC Projects/Docker Update Center/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Docker Update Center.props
+/Users/belkius/VSC Projects/Docker Update Center/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Docker Update Center.props
+/Users/belkius/VSC Projects/Docker Update Center/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/belkius/VSC Projects/Docker Update Center/obj/Debug/net8.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/belkius/VSC Projects/Docker Update Center/obj/Debug/net8.0/scopedcss/bundle/Docker Update Center.styles.css
+/Users/belkius/VSC Projects/Docker Update Center/obj/Debug/net8.0/scopedcss/projectbundle/Docker Update Center.bundle.scp.css
+/Users/belkius/VSC Projects/Docker Update Center/obj/Debug/net8.0/Docker Update Center.dll
+/Users/belkius/VSC Projects/Docker Update Center/obj/Debug/net8.0/refint/Docker Update Center.dll
+/Users/belkius/VSC Projects/Docker Update Center/obj/Debug/net8.0/Docker Update Center.pdb
+/Users/belkius/VSC Projects/Docker Update Center/obj/Debug/net8.0/Docker Update Center.genruntimeconfig.cache
+/Users/belkius/VSC Projects/Docker Update Center/obj/Debug/net8.0/ref/Docker Update Center.dll

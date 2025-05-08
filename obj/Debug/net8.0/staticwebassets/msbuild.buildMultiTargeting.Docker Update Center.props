@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Docker Update Center.props" />
+</Project>

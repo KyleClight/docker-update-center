@@ -1,0 +1,48 @@
+@page 
+@model Docker_Update_Center.Pages.IndexModel
+
+<h1>Docker UpdateCenter</h1>
+<p>Время сервера: @Model.ServerTime</p>
+
+@if (Model.Containers != null && Model.Containers.Any())
+{
+    <table>
+    <thead>
+    <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Image</th>
+    <th>Status</th>
+    <th>Actions</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var container in Model.Containers)
+    {
+        <tr>
+        <td>@container.Id</td>
+        <td>@container.Name</td>
+        <td>@container.Image</td>
+        <td>@container.Status</td>
+
+        <td>
+        <form method="post" asp-page-handler="Restart">
+        <input type="hidden" name="id" value="@container.Id"/>
+        <button type="submit">Restart</button>
+        </form>
+
+        <a href="/Logs?id=@container.Id">Check logs</a>
+        @* <form method="get" asp-page="/Logs">
+        <input type="hidden" name="id" value="@container.Id"/>
+        <button type="submit">Check logs</button>
+        </form> *@
+        </td>
+        </tr> 
+    }
+    </tbody>
+    </table>
+} 
+else 
+{
+    <p>Nothing to display</p>
+}
